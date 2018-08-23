@@ -1,11 +1,10 @@
-#root {
-    background: #eee;
-    height: 100vh;
+body {
+    background-color: lightgray;
 }
 
 .country-wrapper {
     height: 400px;
-    width: 300px;
+    width: 350px;
     border-radius: 10px;
     box-shadow: 0 14px 28px rgba(0,0,0,0.10), 0 10px 10px rgba(0,0,0,0.13);
     margin: 20px auto;
@@ -22,7 +21,6 @@ header {
 
 .country-photo {
     position: absolute;
-    width: 115px;
     height: 115px;
     border-radius: 50%;
     border: 10px solid #003e9f;
@@ -56,6 +54,7 @@ h2 {
 .info {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .info div {
@@ -81,6 +80,10 @@ h2 {
     padding: 6px 0;
 }
 
+.info input {
+    margin-top: 20px;
+}
+
 .countries-list {
     display: flex;
     justify-content: space-around;
@@ -90,7 +93,7 @@ h2 {
 
 .single-country {
     width: 26%;
-    height: 300px;
+    height: 250px;
     margin-top: 50px;
 }
 
@@ -102,4 +105,12 @@ h2 {
 .country-logo {
     max-width: 100%;
     max-height: 100%;
+}
+
+button {
+    margin-top: 10px;
+    background-color: ghostwhite;
+    color: #000;
+    border: none;
+    border-radius: 5px;
 }

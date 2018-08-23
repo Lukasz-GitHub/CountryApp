@@ -46,4 +46,100 @@
   "continent": "Afryka",
   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/900px-Flag_of_Algeria.svg.png",
   "id": 6
+}, {
+  "name": "Japonia",
+  "currency" : "JPY",
+  "populace": "127.11",
+  "capital": "Tokyo",
+  "continent": "Azja",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+  "id": 7
+}, {
+  "name": "Syria",
+  "currency" : "SYP",
+  "populace": "22.09",
+  "capital": "Damaszek",
+  "continent": "Azja",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+  "id": 8
+}, {
+  "name": "Korea Południowa",
+  "currency" : "KRW",
+  "populace": "51.45",
+  "capital": "Seul",
+  "continent": "Azja",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+  "id": 9 
+}, {
+  "name": "Jamajka",
+  "currency" : "JMD",
+  "populace": "2.79",
+  "capital": "Kingston",
+  "continent": "Ameryka Północna",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+  "id": 10 
+}, {
+  "name": "Kanada",
+  "currency" : "CAD",
+  "populace": "33.99",
+  "capital": "Ottawa",
+  "continent": "Ameryka Północna",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+  "id": 11 
+}, {
+  "name": "Meksyk",
+  "currency" : "KRW",
+  "populace": "107.56",
+  "capital": "Meksyk",
+  "continent": "Ameryka Północna",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+  "id": 12 
+}, {
+  "name": "Argentyna",
+  "currency" : "ARS",
+  "populace": "44.08",
+  "capital": "Buenos Aires",
+  "continent": "Ameryka Południowa",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+  "id": 13 
+}, {
+  "name": "Brazylia",
+  "currency" : "BRL",
+  "populace": "207.68",
+  "capital": "Brasilia",
+  "continent": "Ameryka Południowa",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+  "id": 14 
+}, {
+  "name": "Kolumbia",
+  "currency" : "COP",
+  "populace": "49.29",
+  "capital": "Bogota",
+  "continent": "Ameryka Południowa",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+  "id": 15 
+}, {
+  "name": "Australia",
+  "currency" : "AUD",
+  "populace": "24.51",
+  "capital": "Canberra",
+  "continent": "Australia i Oceania",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+  "id": 16 
+}, {
+  "name": "Mikronezja",
+  "currency" : "USD",
+  "populace": "0.10",
+  "capital": "Palikir",
+  "continent": "Australia i Oceania",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+  "id": 17 
+}, {
+  "name": "Vanuatu",
+  "currency" : "VUV",
+  "populace": "0.29",
+  "capital": "Port Vila",
+  "continent": "Australia i Oceania",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+  "id": 18 
 }]
